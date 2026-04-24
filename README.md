@@ -1,9 +1,5 @@
-# I like making things happen
+# Welcome! I'm Gael ⌬
 `software engineer`
-
-### Notices
-
-- I'm currently migrating projects from [my old personal account](https://github.com/buebos)
 
 ---
 
@@ -21,13 +17,19 @@ Some tools I have used to build in the past:
 
 | | |
 |---|---|
-| **frontend** | React · React Native · Next.js · Svelte · Astro · Vite · HTML5 · CSS3 |
-| **backend** | Node.js · Express.js · Python · FastAPI · Django · Go · Gin |
-| **databases** | PostgreSQL · MySQL · MongoDB |
-| **devops** | Git · GitHub · Docker · AWS |
-| **practices** | TDD · Design Patterns · UML · Usability Heuristics · SCRUM |
-| **languages** | Spanish (native) · English (C1) |
+| **Frontend** | React · React Native · Next.js · Svelte · Astro · Vite · HTML5 · CSS3 |
+| **Backend** | Node.js · Express.js · Python · FastAPI · Django · Go · Gin |
+| **Databases** | PostgreSQL · MySQL · MongoDB |
+| **Devops** | Git · GitHub · Docker · AWS |
+| **Practices** | TDD · Design Patterns · UML · Usability Heuristics · SCRUM |
+| **Languages** | Spanish (native) · English (C1) |
 
 ---
 
-> *// if it doesn't have a meaning, it shouldn't be built.*
+### **⚠** Notices
+
+- I'm currently moving my best projects in from [my old personal account](https://github.com/buebos)
+
+---
+
+> *// if it doesn't mean something, it shouldn't be built.*
