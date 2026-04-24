@@ -15,7 +15,7 @@ The art of creating leads me to like engineering and, by consequence, software. 
 
 Some tools I have used to build in the past:
 
-| | |
+| Area | Tools |
 |---|---|
 | **Frontend** | React · React Native · Next.js · Svelte · Astro · Vite · HTML5 · CSS3 |
 | **Backend** | Node.js · Express.js · Python · FastAPI · Django · Go · Gin |
