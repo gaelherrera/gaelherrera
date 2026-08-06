@@ -20,7 +20,7 @@ Some tools I have used to build in the past:
 | **Frontend** | React · React Native · Next.js · Svelte · Astro · Vite · HTML5 · CSS3 |
 | **Backend** | Node.js · Express.js · Python · FastAPI · Django · Go · Gin |
 | **Databases** | PostgreSQL · MySQL · MongoDB |
-| **Devops** | Git · GitHub · Docker · AWS |
+| **DevOps** | Git · GitHub · Docker · AWS |
 | **Complementary** | TDD · Design Patterns · UML · Usability Heuristics · SCRUM |
 | **Languages** | Spanish (native) · English (C1) |
 
